@@ -1,0 +1,7 @@
+modEntry = [[
+Client: lua/OverhaulClient.lua,
+Server: lua/OverhaulServer.lua,
+Predict: lua/OverhaulPredict.lua,
+Shared: lua/OverhaulShared.lua,
+Priority: 5
+]]
